@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\aprendiendo c#\Practica_1\Practica_1\bin\Debug\Practica_1.exe.config
+C:\Users\alumno\Desktop\aprendiendo c#\Practica_1\Practica_1\bin\Debug\Practica_1.exe
+C:\Users\alumno\Desktop\aprendiendo c#\Practica_1\Practica_1\bin\Debug\Practica_1.pdb
+C:\Users\alumno\Desktop\aprendiendo c#\Practica_1\Practica_1\obj\Debug\Practica_1.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\aprendiendo c#\Practica_1\Practica_1\obj\Debug\Practica_1.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\aprendiendo c#\Practica_1\Practica_1\obj\Debug\Practica_1.exe
+C:\Users\alumno\Desktop\aprendiendo c#\Practica_1\Practica_1\obj\Debug\Practica_1.pdb

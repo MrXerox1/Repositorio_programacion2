@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\aprendiendo c#\Orquesta\Orquesta\bin\Debug\Orquesta.exe.config
+C:\Users\alumno\Desktop\aprendiendo c#\Orquesta\Orquesta\bin\Debug\Orquesta.exe
+C:\Users\alumno\Desktop\aprendiendo c#\Orquesta\Orquesta\bin\Debug\Orquesta.pdb
+C:\Users\alumno\Desktop\aprendiendo c#\Orquesta\Orquesta\obj\Debug\Orquesta.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\aprendiendo c#\Orquesta\Orquesta\obj\Debug\Orquesta.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\aprendiendo c#\Orquesta\Orquesta\obj\Debug\Orquesta.exe
+C:\Users\alumno\Desktop\aprendiendo c#\Orquesta\Orquesta\obj\Debug\Orquesta.pdb
