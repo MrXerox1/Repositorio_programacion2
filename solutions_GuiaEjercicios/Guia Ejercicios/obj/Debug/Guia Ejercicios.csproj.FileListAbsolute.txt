@@ -1,0 +1,7 @@
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Guia Ejercicios\obj\Debug\Guia Ejercicios.csprojAssemblyReference.cache
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Guia Ejercicios\obj\Debug\Guia Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Guia Ejercicios\bin\Debug\Guia Ejercicios.exe.config
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Guia Ejercicios\bin\Debug\Guia Ejercicios.exe
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Guia Ejercicios\bin\Debug\Guia Ejercicios.pdb
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Guia Ejercicios\obj\Debug\Guia Ejercicios.exe
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Guia Ejercicios\obj\Debug\Guia Ejercicios.pdb

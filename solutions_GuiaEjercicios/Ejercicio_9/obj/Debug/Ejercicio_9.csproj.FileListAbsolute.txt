@@ -1,0 +1,6 @@
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Ejercicio_9\bin\Debug\Ejercicio_9.exe.config
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Ejercicio_9\bin\Debug\Ejercicio_9.exe
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Ejercicio_9\bin\Debug\Ejercicio_9.pdb
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Ejercicio_9\obj\Debug\Ejercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Ejercicio_9\obj\Debug\Ejercicio_9.exe
+C:\Users\xerox\source\repos\solutions_GuiaEjercicios\Ejercicio_9\obj\Debug\Ejercicio_9.pdb
